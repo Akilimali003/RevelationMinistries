@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1006765886300",
+    "firebase_url": "https://revelation-ministries-full.firebaseio.com",
+    "project_id": "revelation-ministries-full",
+    "storage_bucket": "revelation-ministries-full.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006765886300:android:e38546d6b0e733cb",
+        "android_client_info": {
+          "package_name": "vijey.gamedesigner.cd.revelationministriesfull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006765886300-esghuf99msqtg07c45u07agt7d6608mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_FMjAMD4brYx2kwUZsJJgN4ArrOKFNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
